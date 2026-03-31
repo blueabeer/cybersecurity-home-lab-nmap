@@ -1,38 +1,29 @@
- Cybersecurity Home Lab – Network Reconnaissance & Service Analysis
 
-A hands-on cybersecurity lab built using VirtualBox with Kali Linux and Windows 10 in an isolated network environment. The project focuses on basic offensive security techniques including host discovery, port scanning, and service enumeration using Nmap and Netcat.
+SOC Blue Team Home Lab – Network Recon & Security Analysis
+
+# Overview
+This project demonstrates a basic SOC (Security Operations Center) home lab using Kali Linux and Nmap to perform network reconnaissance, identify active hosts, and analyze exposed services in a controlled environment.
+
+# Purpose
+This lab simulates a SOC environment to analyze network activity, identify active hosts, and detect exposed services using real security tools.
 
 # Key Findings
-- Identified an active host within an isolated network
-- Detected open TCP ports using Nmap scanning
-- Performed service enumeration using -sV flag
-- Analyzed exposed services in a controlled lab environment
-
-- # What I learned
-- How attackers discover live hosts in a network
-- How open ports can expose services to potential threats
-- Importance of network segmentation in security
+- Identified active host in isolated network environment
+- Detected open TCP ports and exposed services using Nmap
+- Performed service enumeration (-sV)
+- Mapped potential attack surface based on exposed services
 
   
-# Skills
-- Network Scanning & Reconnaissance
+# Skills Demonstrated
+- Network Reconnaissance
+- Attack Surface Identification
 - Service Enumeration
-- Virtual Lab Setup (VirtualBox)
-- Basic SOC Analyst Thinking
-- Nmap & Netcat usage
-
-- # Security Insight
-Open ports and exposed services can be entry points for attackers if not properly secured or monitored.
+- SOC Analyst Thinking
+- Basic Threat Awareness
 
 
-#  Outcome
-This project demonstrates foundational cybersecurity skills in network reconnaissance, service analysis, and virtual lab setup suitable for SOC-level understanding. 
-
- Virtual Lab |  Network Scanning |  SOC Fundamentals
-
-# Environment
-VirtualBox | Kali Linux | Windows 10 | Host-only networking
-
+# SOC Analysis
+From a security perspective, exposed services increase attack surface and require monitoring, patching, and access control enforcement.
 
 # Tools
 Kali Linux | Windows 10 | VirtualBox | Nmap | Netcat
