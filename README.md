@@ -80,3 +80,6 @@ It reflects practical understanding of how threats are detected and analyzed in 
 https://github.com/blueabeer/Kali-Network-Recon-Lab-Nmap-Service-Discovery-/blob/main/kali%20final%20result.png
 
 Final Nmap scan result showing open TCP port (4444) detected in the target machine.
+
+##  Real-World Relevance
+This lab simulates SOC analyst tasks such as network monitoring, traffic analysis, and security log investigation commonly used in enterprise environments.
