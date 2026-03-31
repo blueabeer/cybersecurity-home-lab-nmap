@@ -8,6 +8,14 @@ A hands-on cybersecurity lab built using VirtualBox with Kali Linux and Windows 
 - Performed service enumeration using -sV flag
 - Analyzed exposed services in a controlled lab environment
 
+- # What I learned
+- How attackers discover live hosts in a network
+- How open ports can expose services to potential threats
+- Importance of network segmentation in security
+
+# Security Insight
+Open ports and exposed services can be entry points for attackers if not properly secured or monitored.
+
   
 # Skills
 - Network Scanning & Reconnaissance
