@@ -21,6 +21,10 @@ This project demonstrates foundational cybersecurity skills in network reconnais
 
  Virtual Lab |  Network Scanning |  SOC Fundamentals
 
+# Environment
+VirtualBox | Kali Linux | Windows 10 | Host-only networking
+
+
 # Tools
 Kali Linux | Windows 10 | VirtualBox | Nmap | Netcat
 
