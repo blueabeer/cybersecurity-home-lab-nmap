@@ -19,3 +19,4 @@ A hands-on cybersecurity lab built using VirtualBox with Kali Linux and Windows 
 Kali Linux | Windows 10 | VirtualBox | Nmap | Netcat
 
 # Lab Diagram
+https://github.com/blueabeer/Kali-Network-Recon-Lab-Nmap-Service-Discovery-/blob/main/kali%20final%20result.png
