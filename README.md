@@ -13,9 +13,6 @@ A hands-on cybersecurity lab built using VirtualBox with Kali Linux and Windows 
 - How open ports can expose services to potential threats
 - Importance of network segmentation in security
 
-# Security Insight
-Open ports and exposed services can be entry points for attackers if not properly secured or monitored.
-
   
 # Skills
 - Network Scanning & Reconnaissance
@@ -23,6 +20,10 @@ Open ports and exposed services can be entry points for attackers if not properl
 - Virtual Lab Setup (VirtualBox)
 - Basic SOC Analyst Thinking
 - Nmap & Netcat usage
+
+- # Security Insight
+Open ports and exposed services can be entry points for attackers if not properly secured or monitored.
+
 
 #  Outcome
 This project demonstrates foundational cybersecurity skills in network reconnaissance, service analysis, and virtual lab setup suitable for SOC-level understanding. 
